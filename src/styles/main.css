@@ -1,0 +1,9 @@
+.warning {
+  height: 40px;
+  width: 250px;
+  position: absolute;
+  right: 0;
+  top: 10%;
+  background-color: darkkhaki;
+  color: black;
+}
